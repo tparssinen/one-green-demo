@@ -1,4 +1,4 @@
-name: silta
+name: one-green-demo
 recipe: drupal8
 
 config:
@@ -91,11 +91,11 @@ services:
 
 proxy:
   # elasticsearch:
-  #   - elasticsearch-silta.lndo.site:9200
+  #   - elasticsearch-one-green.lndo.site:9200
   # kibana:
-  #   - kibana-silta.lndo.site:5601
+  #   - kibana-one-green.lndo.site:5601
   mailhog:
-    - mail-silta.lndo.site
+    - mail-one-green.lndo.site
 
 events:
   pre-start:
