@@ -1,0 +1,4 @@
+link_url: 'https://github.com/one_green_demo-ds/one_green_demo-design-system'
+link_content: 'This is my link text'
+link_attributes:
+  'target': '_blank'

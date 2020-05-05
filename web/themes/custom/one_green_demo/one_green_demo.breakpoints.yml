@@ -1,0 +1,16 @@
+# Breakpoints - change based on site need
+one_green_demo.small:
+  label: small
+  mediaQuery: 'all and (min-width: 25em)'
+one_green_demo.small-med:
+  label: small-med
+  mediaQuery: 'all and (min-width: 26em)'
+one_green_demo.small-large:
+  label: small-large
+  mediaQuery: 'all and (min-width: 41em)'
+one_green_demo.medium:
+  label: medium
+  mediaQuery: 'all and (min-width: 48em)'
+one_green_demo.large:
+  label: large
+  mediaQuery: 'all and (min-width: 61.25em)'
