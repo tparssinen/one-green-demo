@@ -1,2 +1,2 @@
-# one-green-demo
+# One Green (demo)
 Emulsify + Drupal demo
