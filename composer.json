@@ -25,6 +25,7 @@
         "drupal/simplei": "^1.0",
         "drupal/warden": "^1.2",
         "drush/drush": "^9.7.1 || ^10.0.0",
+        "emulsify-ds/emulsify-drupal": "^1.0@beta",
         "vlucas/phpdotenv": "^4.0",
         "webflo/drupal-finder": "^1.0.0"
     },
