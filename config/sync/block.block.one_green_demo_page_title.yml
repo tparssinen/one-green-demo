@@ -1,0 +1,20 @@
+uuid: 8aae928e-9f65-4c82-a953-48c83398c515
+langcode: en
+status: true
+dependencies:
+  theme:
+    - one_green_demo
+_core:
+  default_config_hash: 7rR9chwXvdM2H8OYMAYx9Zj3GGlPMrZp_M3ZA4thYTk
+id: one_green_demo_page_title
+theme: one_green_demo
+region: content
+weight: -50
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility: {  }

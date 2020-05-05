@@ -1,0 +1,22 @@
+uuid: 9220647b-63b9-4ebd-99a7-f0c162dde363
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - one_green_demo
+_core:
+  default_config_hash: 9EoWV2Lot6FVSr50t4hoKgiz1LIXYWNG-IIPYsWxBqo
+id: one_green_demo_content
+theme: one_green_demo
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }

@@ -1,0 +1,22 @@
+uuid: fb06c804-eae1-4f64-a811-ac5d265a1e66
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - one_green_demo
+_core:
+  default_config_hash: KHQIJ7Vfl25lTjzIc7qIvnuistt-Mw2O0kG4jCofmkI
+id: one_green_demo_messages
+theme: one_green_demo
+region: header
+weight: 0
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }

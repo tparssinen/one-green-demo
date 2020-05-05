@@ -1,0 +1,22 @@
+uuid: 6142de1e-a7c8-47b7-acff-fc1370170c27
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - one_green_demo
+_core:
+  default_config_hash: oXUb3JZR2WW5VOdw4HrhRicCsq51mCgLfRyvheG68ck
+id: one_green_demo_breadcrumbs
+theme: one_green_demo
+region: header
+weight: 0
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  provider: system
+  label_display: '0'
+visibility: {  }

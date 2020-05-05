@@ -1,0 +1,22 @@
+uuid: d029ccf5-72ee-4125-a42a-6578caf006fb
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - one_green_demo
+_core:
+  default_config_hash: 8I8iACSa0sKO3k3jlvUG1ge52rfcKX7USJAQYnzuBgg
+id: one_green_demo_help
+theme: one_green_demo
+region: content
+weight: -30
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }
